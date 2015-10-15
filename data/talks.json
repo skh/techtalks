@@ -1,0 +1,39 @@
+/* to add a talk, use this template: 
+  {
+    "speaker": "<Speaker Name>",
+    "title": "<Full talk title>",
+    "event": "<Conference or Event>",
+    "year": 1970,
+    "video_url": "<link to youtube, vimeo et.al.>",
+    "event_url": "<direct link to talk description on event webpage>"
+    "tags": ["all", "relevant", "tags"]
+  }
+*/
+
+var talks = [
+  {
+    "speaker": "Suz Hinton",
+    "title": "Refactoring the dinosaur",
+    "event": "JSConf EU",
+    "year": 2015,
+    "video_url": "https://www.youtube.com/watch?v=VxxTkhSTJbA",
+    "event_url": "http://lanyrd.com/2015/jsconfeu/sdtbzw/",
+    "tags": ["javascript", "hardware", "nodejs", "refactoring"]
+  }, {
+  	"speaker": "Patricia Garcia",
+  	"title": "Good Tech for Hard Places: Fighting Ebola with JS Offline Apps",
+  	"event": "JSConf EU",
+  	"year": 2015,
+  	"video_url": "https://www.youtube.com/watch?v=1sLjWlWvCsc",
+  	"event_url": "http://lanyrd.com/2015/jsconfeu/sdtbzz/",
+  	"tags": ["javascript", "offline applications", "medicine"]
+  }, {
+  	"speaker": "Stefanie Grewenig",
+  	"title": "OnConnectionLost: The life of an offline web application",
+  	"event": "JSConf EU",
+  	"year": 2015,
+  	"video_url": "https://www.youtube.com/watch?v=rw8Q9ZLDkEs",
+  	"event_url": "http://lanyrd.com/2015/jsconfeu/sdtcbc/",
+  	"tags": ["javascript", "offline applications", "local storage", "service worker"]
+  }
+];
