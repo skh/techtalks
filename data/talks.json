@@ -35,5 +35,13 @@ var talks = [
   	"video_url": "https://www.youtube.com/watch?v=rw8Q9ZLDkEs",
   	"event_url": "http://lanyrd.com/2015/jsconfeu/sdtcbc/",
   	"tags": ["javascript", "offline applications", "local storage", "service worker"]
+  }, {
+    "speaker": "Barbara Liskov",
+    "title": "The Power of Abstraction",
+    "event": "OOPSLA",
+    "year": 2009,
+    "video_url": "https://www.youtube.com/watch?v=qAKrMdUycb8",
+    "event_url": "http://www.oopsla.org/oopsla2009/program/invited-speakers/215-oopsla-keynote-speaker-turing-award-lecture-reprise"
+    "tags": ["abstraction", "programming langugage design", "object orientation", "keynote", "turing award"]
   }
 ];
