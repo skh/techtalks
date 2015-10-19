@@ -43,5 +43,13 @@ var talks = [
     "video_url": "https://www.youtube.com/watch?v=qAKrMdUycb8",
     "event_url": "http://www.oopsla.org/oopsla2009/program/invited-speakers/215-oopsla-keynote-speaker-turing-award-lecture-reprise"
     "tags": ["abstraction", "programming langugage design", "object orientation", "keynote", "turing award"]
+  }, {
+    "speaker": "Camille Fournier",
+    "title": "Hopelessness and Confidence in Distributed Systems Design",
+    "event": "strangeloop",
+    "year": 2015,
+    "video_url": "https://www.youtube.com/watch?v=TlU1opuCXB0",
+    "event_url": "http://thestrangeloop.com/2015/hopelessness-and-confidence-in-distributed-systems-design.html",
+    "tags": ["distributed systems"]
   }
 ];
