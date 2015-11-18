@@ -51,5 +51,14 @@ var talks = [
     "video_url": "https://www.youtube.com/watch?v=TlU1opuCXB0",
     "event_url": "http://thestrangeloop.com/2015/hopelessness-and-confidence-in-distributed-systems-design.html",
     "tags": ["distributed systems"]
+  },
+    {
+    "speaker": "Olga Madejska",
+    "title": "Breaking Bad - Web Components in production, what worked for us",
+    "event": "JSconf EU",
+    "year": 2015,
+    "video_url": "https://www.youtube.com/watch?v=cRTko6m6U4A",
+    "event_url": "http://lanyrd.com/2015/jsconfeu/sdtbzd/"
+    "tags": ["web components"]
   }
 ];
