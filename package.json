@@ -1,0 +1,24 @@
+{
+  "name": "techtalks",
+  "version": "1.0.0",
+  "description": "Diverse people not talking about diversity",
+  "main": "js/app.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.1.18"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skh/techtalks.git"
+  },
+  "author": "Sonja Krause-Harder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skh/techtalks/issues"
+  },
+  "homepage": "https://github.com/skh/techtalks#readme"
+}
