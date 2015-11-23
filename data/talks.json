@@ -60,5 +60,13 @@ var talks = [
     "video_url": "https://www.youtube.com/watch?v=cRTko6m6U4A",
     "event_url": "http://lanyrd.com/2015/jsconfeu/sdtbzd/"
     "tags": ["web components"]
+  }, {
+    "speaker": "Angelina Fabbro",
+    "title": "JavaScript Masterclass",
+    "event": "JSConf US",
+    "year": 2013,
+    "video_url": "https://www.youtube.com/watch?v=v0TFmdO4ZP0",
+    "event_url": "http://2013.jsconf.us/speakers#fabbro"
+    "tags": ["javascript", "intermediate", "tutorials", "learning"]
   }
 ];
