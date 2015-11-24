@@ -17,7 +17,6 @@ var talks = [
     "event": "JSConf EU",
     "year": 2015,
     "video_url": "https://www.youtube.com/watch?v=VxxTkhSTJbA",
-    "event_url": "http://lanyrd.com/2015/jsconfeu/sdtbzw/",
     "tags": ["javascript", "hardware", "nodejs", "refactoring"]
   }, {
   	"speaker": "Patricia Garcia",
@@ -25,7 +24,6 @@ var talks = [
   	"event": "JSConf EU",
   	"year": 2015,
   	"video_url": "https://www.youtube.com/watch?v=1sLjWlWvCsc",
-  	"event_url": "http://lanyrd.com/2015/jsconfeu/sdtbzz/",
   	"tags": ["javascript", "offline applications", "medicine"]
   }, {
   	"speaker": "Stefanie Grewenig",
@@ -33,7 +31,6 @@ var talks = [
   	"event": "JSConf EU",
   	"year": 2015,
   	"video_url": "https://www.youtube.com/watch?v=rw8Q9ZLDkEs",
-  	"event_url": "http://lanyrd.com/2015/jsconfeu/sdtcbc/",
   	"tags": ["javascript", "offline applications", "local storage", "service worker"]
   }, {
     "speaker": "Barbara Liskov",
@@ -41,7 +38,6 @@ var talks = [
     "event": "OOPSLA",
     "year": 2009,
     "video_url": "https://www.youtube.com/watch?v=qAKrMdUycb8",
-    "event_url": "http://www.oopsla.org/oopsla2009/program/invited-speakers/215-oopsla-keynote-speaker-turing-award-lecture-reprise"
     "tags": ["abstraction", "programming langugage design", "object orientation", "keynote", "turing award"]
   }, {
     "speaker": "Camille Fournier",
@@ -49,7 +45,6 @@ var talks = [
     "event": "strangeloop",
     "year": 2015,
     "video_url": "https://www.youtube.com/watch?v=TlU1opuCXB0",
-    "event_url": "http://thestrangeloop.com/2015/hopelessness-and-confidence-in-distributed-systems-design.html",
     "tags": ["distributed systems"]
   },
     {
@@ -58,7 +53,6 @@ var talks = [
     "event": "JSconf EU",
     "year": 2015,
     "video_url": "https://www.youtube.com/watch?v=cRTko6m6U4A",
-    "event_url": "http://lanyrd.com/2015/jsconfeu/sdtbzd/"
     "tags": ["web components"]
   }, {
     "speaker": "Angelina Fabbro",
@@ -66,7 +60,13 @@ var talks = [
     "event": "JSConf US",
     "year": 2013,
     "video_url": "https://www.youtube.com/watch?v=v0TFmdO4ZP0",
-    "event_url": "http://2013.jsconf.us/speakers#fabbro"
     "tags": ["javascript", "intermediate", "tutorials", "learning"]
+  }, {
+    "speaker": "Sara Soueidan",
+    "title": "Styling and Animating Scalable Vector Graphics with CSS",
+    "event": "CSSconf EU",
+    "year": 2014,
+    "video_url": "https://www.youtube.com/watch?v=lf7L8X6ZBu8",
+    "tags": ["free software"]
   }
 ];
