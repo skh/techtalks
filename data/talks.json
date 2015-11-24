@@ -67,6 +67,13 @@ var talks = [
     "event": "CSSconf EU",
     "year": 2014,
     "video_url": "https://www.youtube.com/watch?v=lf7L8X6ZBu8",
-    "tags": ["free software"]
+    "tags": ["svg", "css", "animation"]
+  },   {
+    "speaker": "Lea Verou",
+    "title": "More CSS Secrets: Another 10 things you may not know about CSS",
+    "event": "W3Conf",
+    "year": 2013,
+    "video_url": "https://www.youtube.com/watch?v=3ikye7Qc7Ak",
+    "tags": ["css"]
   }
 ];
