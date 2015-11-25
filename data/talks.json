@@ -75,5 +75,12 @@ var talks = [
     "year": 2013,
     "video_url": "https://www.youtube.com/watch?v=3ikye7Qc7Ak",
     "tags": ["css"]
+  }, {
+    "speaker": "Rachel Andrew",
+    "title": "CSS Grid Layout",
+    "event": "CSSconf EU",
+    "year": 2014,
+    "video_url": "https://www.youtube.com/watch?v=GRexIOtGhBU",
+    "tags": ["css"]
   }
 ];
