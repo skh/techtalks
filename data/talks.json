@@ -82,5 +82,12 @@ var talks = [
     "year": 2014,
     "video_url": "https://www.youtube.com/watch?v=GRexIOtGhBU",
     "tags": ["css"]
+  }, {
+    "speaker": "Anouk Ruhaak",
+    "title": "Get started with Functional Programming",
+    "event": "otsconf",
+    "year": 2015,
+    "video_url": "https://www.youtube.com/watch?v=6f5dt923FmQ",
+    "tags": ["programming", "functional programming"]
   }
 ];
